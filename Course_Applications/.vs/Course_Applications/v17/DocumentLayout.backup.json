@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\walid\\Desktop\\C\u002B\u002B\\c\u002B\u002B PROJECTS\\Course_Applications\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD23815-40A5-4CA6-9AAF-F4561BDC7EDF}|Course_Applications.vcxproj|C:\\Users\\walid\\Desktop\\C\u002B\u002B\\c\u002B\u002B PROJECTS\\Course_Applications\\Course_Applications.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8FD23815-40A5-4CA6-9AAF-F4561BDC7EDF}|Course_Applications.vcxproj|solutionrelative:Course_Applications.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course_Applications.cpp",
+              "DocumentMoniker": "C:\\Users\\walid\\Desktop\\C\u002B\u002B\\c\u002B\u002B PROJECTS\\Course_Applications\\Course_Applications.cpp",
+              "RelativeDocumentMoniker": "Course_Applications.cpp",
+              "ToolTip": "C:\\Users\\walid\\Desktop\\C\u002B\u002B\\c\u002B\u002B PROJECTS\\Course_Applications\\Course_Applications.cpp",
+              "RelativeToolTip": "Course_Applications.cpp",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T15:19:04.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
